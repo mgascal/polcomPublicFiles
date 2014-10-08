@@ -1,0 +1,17 @@
+html, body{
+	background-color: #F5F5F5;
+    height:100%;
+}
+
+.odd {
+	height:100%;
+    background-color: #FFFFFF;         
+}
+
+.even {
+	background-color: #DDEEFF;          
+}
+
+.even td {
+	border-bottom: 1px solid #cef; 
+}

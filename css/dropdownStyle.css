@@ -1,0 +1,32 @@
+.dropdown-menu li a:hover{
+	cursor: hand;
+}
+
+.tableHeader{
+	background-color: #aaccff;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.rowGray{
+	font-size: 11px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	height: 100%;
+	background-color: #DDEEFF;
+}
+
+.rowWhite{
+	font-size: 11px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	height: 100%;
+	background-color: #ffffff;
+}
+
+.rowRush{
+	background-color: rgba(225, 145, 145, 1);
+}
+
+
